@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm an **Information Science** undergraduate student at **University of Toronto**, where I'm building a strong foundation in data science, backend software engineering, and machine learning. I also had Associate Degree for **Software Engineering** and **Computer Science** coursework at **Broward College, USA** and **Athabasca University**
+I'm an **Information Science** undergraduate student at **University of Toronto**, where I'm building a strong foundation in data science, backend software engineering, and machine learning. I als[...]
 
 I'm driven by a fascination for how technology solves real-world problems. My primary interests include:
 
@@ -47,6 +47,9 @@ This is a collection of technologies I've been working with. I'm always adding m
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
+  <!-- LLM / AI tools -->
+  <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
 </p>
 
 #### Web Development & APIs
@@ -82,6 +85,11 @@ This is a collection of technologies I've been working with. I'm always adding m
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual STudio Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
+  <!-- AI coding / CLI -->
+  <img src="https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/OpenClaw-0A0A0A?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenClaw"/>
+  <img src="https://img.shields.io/badge/CLI_Tools-4B5563?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="CLI tools"/>
 </p>
 
 ---
