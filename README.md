@@ -1,9 +1,9 @@
-# Hi, I'm Kenny Nguyen! 👋
+# Hi, I'm Kenny Nguyen!
 ![](https://komarev.com/ghpvc/?username=Pintopie&base=738)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kenny-nguyen-42ba2624b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:hoangnhan20192@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -11,21 +11,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm an **Information Science** undergraduate student at **University of Toronto**, where I'm building a strong foundation in data science, backend software engineering, and machine learning. I also had Associate Degree for **Software Engineering** and **Computer Science** coursework at **Broward College, USA** and **Athabasca University**
 
 I'm driven by a fascination for how technology solves real-world problems. My primary interests include:
 
-* 🤖 **A.I. Engineering:** Exploring machine learning models, neural networks, and how data can be used to build intelligent systems.
-* ☁️ **Cloud Services:** Building and deploying scalable, resilient applications using cloud-native technologies and infrastructure.
-* ⚙️ **Web APIs & Software Development:** I enjoy the logic behind creating robust backend systems and designing efficient APIs that power modern web experiences.
-
-I'm always learning, building, and looking for my next challenge. I'm especially eager to **collaborate on open-source projects** related to AI, data engineering, or cloud infrastructure. Feel free to reach out if you have a project in mind!
+* **A.I. Engineering:** Exploring machine learning models, neural networks, and how data can be used to build intelligent systems.
+* **Cloud Services:** Building and deploying scalable, resilient applications using cloud-native technologies and infrastructure.
+* **Web APIs & Software Development:** I enjoy the logic behind creating robust backend systems and designing efficient APIs that power modern web experiences.
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 This is a collection of technologies I've been working with. I'm always adding more to my toolbox!
 
