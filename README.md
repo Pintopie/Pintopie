@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm an **Information Science** undergraduate student at **University of Toronto**, where I'm building a strong foundation in data science, backend software engineering, and machine learning. I als[...]
+I'm an **Information Science** undergraduate student at **University of Toronto**, where I'm building a strong foundation in data science, backend software engineering, and machine learning.
 
 I'm driven by a fascination for how technology solves real-world problems. My primary interests include:
 
